@@ -1,0 +1,25 @@
+	
+    body{
+    background-color: #444444;
+    }
+    
+    h2{
+    	text-align: center;
+    	font-weight: bold;
+    	font-style: normal;
+    }
+	#first-section{
+		text-align: right;
+	}
+	h3{
+		background-color: turquoise;
+		text-align: left;
+		font-weight: bold;
+    	font-style: normal
+	}
+	#img{
+		float: right;
+	}
+	div strong{
+		color: teal;
+	}
